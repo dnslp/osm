@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file alias="musicnoise48.wav">Music-Noise_48kHz.wav</file>
+        <file alias="musicnoise96.wav">Music-Noise_96kHz.wav</file>
+    </qresource>
+</RCC>
